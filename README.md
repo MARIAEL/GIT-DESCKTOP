@@ -71,9 +71,10 @@ Cada vez que queramos trabajar desde otro ordenador, lo primero que hay que hace
 
 Después tendremos que instalar las carpetas **bower** y **npm**  porque estas carpetas no se suben automáticamente.  
 
+```bash
 $zapatos:bower install  
 
 $zapatos:npm install  
-
+```
 
 
