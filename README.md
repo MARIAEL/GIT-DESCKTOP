@@ -1,4 +1,4 @@
-# GIT-DESKTOP
+# GITHUB-DESKTOP
 Buscar en la página de Github el aplicativo [Github Desktop](https://desktop.github.com/) para instalarlo siguiendo el procedimiento habitual.  
 
 Vamos a crear una carpeta para una nueva web.  
@@ -70,5 +70,10 @@ Si cuando lo visualizamos en el navegador vemos que nos falta bootstrap hay que 
 Cada vez que queramos trabajar desde otro ordenador, lo primero que hay que hacer es abrir github desktop y clonar la carpeta desde github.
 
 Después tendremos que instalar las carpetas **bower** y **npm**  porque estas carpetas no se suben automáticamente.  
+
+$zapatos:bower install  
+
+$zapatos:npm install  
+
 
 
