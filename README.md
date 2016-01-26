@@ -55,7 +55,7 @@ Veremos en Github que tenemos la nueva carpeta
 
 ![](http://grabilla.com/06119-420d91a1-b3e9-4db4-adf1-f7984c0498b1.png)
 
-El siguiente paso sería arrastrar la carpeta **zapatos** hasta **Sublime text**  
+El siguiente paso sería arrastrar la carpeta **zapatos** hasta **Sublime text** (es suficiente con arrastrar la carpeta app)    
 
 ![](http://grabilla.com/06119-2cba50be-d110-47cd-a1ed-e920df42609d.png)  
 
