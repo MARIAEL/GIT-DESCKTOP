@@ -77,5 +77,5 @@ $zapatos:bower install
 $zapatos:npm install  
 ```
 
-[yeoman info](https://github.com/MARIAEL/YEOMAN/blob/master/README.md)
+[YEOMAN más info](https://github.com/MARIAEL/YEOMAN/blob/master/README.md)
 
