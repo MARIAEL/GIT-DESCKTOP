@@ -25,7 +25,7 @@ Vamos al terminal de Bitnami y vamos a la carpeta que hemos creado (zapatos)
 
 ![](http://grabilla.com/06119-75ebe3b6-4ab4-436f-801f-2bc549312887.png)  
 
-Ahora instalamos Yeoman (ver pasos en [Instalar Yeoman en Bitnami](https://github.com/MARIAEL/EC2/blob/master/Yeoman.md)) 
+Mediante Yeoman creamos la estructura de la nueva web. 
 
 Cuando termine  
 
